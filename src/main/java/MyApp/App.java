@@ -1,9 +1,5 @@
 package MyApp;
 
-/**
- * Hello world!
- *
- */
 
 
 public class App 
