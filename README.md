@@ -1,10 +1,10 @@
 # Prova Finale Ingegneria del Software 2020
+# JUnitIntro
 ## Gruppo AM00
 
-# JUnitIntro
 minimal  project with JUNIT
 
-.....
+
 
 
 - ###   10600001    Alice Rossi ([@alice-rossi](https://github.com/alice-rossi))<br>alice.rossi@mail.polimi.it
