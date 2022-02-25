@@ -1,2 +1,2 @@
-# Prova Finale Ingegneria del Software 2021
+# Prova Finale Ingegneria del Software POLIMI
 # JUnitIntro: minimal  project with JUNIT
